@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Model file (can be recreated by running train_model.py)
+model/exam_score_model.pkl
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other unnecessary files
+*.log
